@@ -1,0 +1,12 @@
+C:\Users\Laptop\source\repos\ConsoleApp-HashSet-CSharp\ConsoleApp-HashSet-CSharp\bin\Debug\netcoreapp3.1\ConsoleApp-HashSet-CSharp.exe
+C:\Users\Laptop\source\repos\ConsoleApp-HashSet-CSharp\ConsoleApp-HashSet-CSharp\bin\Debug\netcoreapp3.1\ConsoleApp-HashSet-CSharp.deps.json
+C:\Users\Laptop\source\repos\ConsoleApp-HashSet-CSharp\ConsoleApp-HashSet-CSharp\bin\Debug\netcoreapp3.1\ConsoleApp-HashSet-CSharp.runtimeconfig.json
+C:\Users\Laptop\source\repos\ConsoleApp-HashSet-CSharp\ConsoleApp-HashSet-CSharp\bin\Debug\netcoreapp3.1\ConsoleApp-HashSet-CSharp.runtimeconfig.dev.json
+C:\Users\Laptop\source\repos\ConsoleApp-HashSet-CSharp\ConsoleApp-HashSet-CSharp\bin\Debug\netcoreapp3.1\ConsoleApp-HashSet-CSharp.dll
+C:\Users\Laptop\source\repos\ConsoleApp-HashSet-CSharp\ConsoleApp-HashSet-CSharp\bin\Debug\netcoreapp3.1\ConsoleApp-HashSet-CSharp.pdb
+C:\Users\Laptop\source\repos\ConsoleApp-HashSet-CSharp\ConsoleApp-HashSet-CSharp\obj\Debug\netcoreapp3.1\ConsoleApp-HashSet-CSharp.AssemblyInfoInputs.cache
+C:\Users\Laptop\source\repos\ConsoleApp-HashSet-CSharp\ConsoleApp-HashSet-CSharp\obj\Debug\netcoreapp3.1\ConsoleApp-HashSet-CSharp.AssemblyInfo.cs
+C:\Users\Laptop\source\repos\ConsoleApp-HashSet-CSharp\ConsoleApp-HashSet-CSharp\obj\Debug\netcoreapp3.1\ConsoleApp-HashSet-CSharp.csproj.CoreCompileInputs.cache
+C:\Users\Laptop\source\repos\ConsoleApp-HashSet-CSharp\ConsoleApp-HashSet-CSharp\obj\Debug\netcoreapp3.1\ConsoleApp-HashSet-CSharp.dll
+C:\Users\Laptop\source\repos\ConsoleApp-HashSet-CSharp\ConsoleApp-HashSet-CSharp\obj\Debug\netcoreapp3.1\ConsoleApp-HashSet-CSharp.pdb
+C:\Users\Laptop\source\repos\ConsoleApp-HashSet-CSharp\ConsoleApp-HashSet-CSharp\obj\Debug\netcoreapp3.1\ConsoleApp-HashSet-CSharp.genruntimeconfig.cache
